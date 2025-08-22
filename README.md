@@ -12,8 +12,8 @@ Each day, I’ll update this README with what I learned, what I built, and any c
 ## 📅 Table of Contents
 
 - [Day 0: Setup & Planning](#day-0-setup--planning)
-- [Days 1–10: Project 1 – Daily Journal App](#project-1-daily-journal-app)
-- [Days 11–20: Project 2 – Habit Tracker](#project-2-habit-tracker)
+- [Days 1–10: Project 1 – Todo App](#project-1-daily-journal-app)
+- [Days 11–20: Project 2 – Space Tourism App](#project-2-habit-tracker)
 - [Days 21–30: Project 3 – Recipe Finder](#project-3-recipe-finder)
 - [Days 31–40: Project 4 – Authenticated To-Do App](#project-4-authenticated-to-do-app)
 - [Days 41–50: Project 5 – Budget Manager](#project-5-budget-manager)
