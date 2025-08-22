@@ -1,5 +1,3 @@
-# Space Tourism App with React Native: What I built & What I learned
-
 ## Table of Contents
 - [Overview](#overview)
 - [About the Project](#about-the-project)
@@ -8,18 +6,18 @@
     - [Features](#features)
     - [Links & Demo](#links--demo)
 - [What I learned](#what-i-learned)
-    - [More React Native Components](#react-native-components)
-    - [State Management](#state-management-with-react-usestate)
-    - [Fonts](#using-custom-fonts)
-    - [Animations & Gestures](#animations--gestures)
+    - [More React Native Components](#more-react-native-components)
+    - [State Management with `useRef`](#state-management-with-react-useref)
+    - [Data Persistence with `AsyncStorage`](#data-persistence-with-asyncstorage)
+    - [Improved Animations & Gestures](#improved-animations--gestures)
     - [Challenges](#challenges-faced)
 - [Final Thoughts](#final-thoughts)
 
 ## Overview
 
-For my first dive into React Native development, I tackled a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW) to build a fully-featured to-do app.
+For my second swim in React Native development, I tackled a [Frontend Mentor challenge](https://www.frontendmentor.io/challenges/space-tourism-multipage-website-gRWj1URZ3) to build a space tourism app.
 
-This project was my first foray into the world of React Native & Expo, and is the first project in my [60-day React Native challenge](https://github.com/akcumeh/rn-60d/blob/main/projects.md).
+This project was my second project built with React Native & Expo, and is the second project in my [60-day React Native challenge](https://github.com/akcumeh/rn-60d/blob/main/projects.md).
 
 
 ## About the Project
@@ -56,6 +54,7 @@ You can find the app here:
 - [Live link](https://space-tourism-rn.netlify.app)
 
 Some snippets:
+
 Mobile Screenshots:
 ![Home - Mobile](../assets/images/13sta-ss-01.jpg)
 ![Destination - Mobile](../assets/images/13sta-ss-02.jpg)

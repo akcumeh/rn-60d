@@ -12,16 +12,41 @@ Each day, I’ll update this README with what I learned, what I built, and any c
 ## 📅 Table of Contents
 
 - [Day 0: Setup & Planning](#day-0-setup--planning)
-- [Days 1–10: Project 1 – Daily Journal App](#project-1-daily-journal-app)
-- [Days 11–20: Project 2 – Habit Tracker](#project-2-habit-tracker)
-- [Days 21–30: Project 3 – Recipe Finder](#project-3-recipe-finder)
+- [Days 1–10: Project 1 – Frontend Mentor To-Do App](#project-1-daily-journal-app)
+- [Days 11–20: Project 2 – Frontend Mentor Space Tourism Challenge](#project-2-habit-tracker)
+- [Days 21–30: Project 3 – Shortly, the URL Shortener](#project-3-recipe-finder)
 - [Days 31–40: Project 4 – Authenticated To-Do App](#project-4-authenticated-to-do-app)
 - [Days 41–50: Project 5 – Budget Manager](#project-5-budget-manager)
 - [Days 51–60: Project 6 – Portfolio App](#project-6-portfolio-app)
 
 ---
 
-# 🧠 Daily Journal
+# Daily Journal
+
+## Day 0: Setup & Planning
+**Today I:**
+- Set up this meta repo
+- Installed Expo CLI
+- Planned my 60-day learning journey
+
+**Thoughts/Reflections:**
+- It's the grind, I guess. Let's do something hard this time.
+
+[tweet](https://x.com/akcumeh/status/1951328182617120795)
+
+---
+
+## Project 1 – Frontend Mentor To-do App
+
+### Day 1
+[Tweet](https://x.com/akcumeh/status/1952055568270831629)
+
+
+```js
+<View style={styles.container}>
+    <Text>Welcome to my Journal</Text>
+</View>
+```Daily Journal
 
 ## 🗓️ Day 0: Setup & Planning
 **Today I:**
